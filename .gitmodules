@@ -1,0 +1,6 @@
+[submodule "keyboard_parts.pretty"]
+	path = keyboard_parts.pretty
+	url = git@github.com:colemarkham/keyboard_parts.pretty.git
+[submodule "TheKeebrary.pretty"]
+	path = TheKeebrary.pretty
+	url = git@github.com:saucybulgogi/TheKeebrary.pretty.git
